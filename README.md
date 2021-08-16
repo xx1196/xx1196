@@ -1,21 +1,20 @@
 # Hello, my name is Andres Felipe Cardozo Cañas
-### Freelance back laravel-lumen & php
+### Freelance back, laravel-lumen, php, graphQL.
 
 I'm a software developer for more than 4 years.
 
 ## Skills:
-[![Php](https://img.shields.io/badge/php-999999?style=for-the-badge&logo=php&logoColor=8892bf&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/angular-dd0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Reactjs](https://img.shields.io/badge/reactjs-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=black)]()
-[![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=ff2d20&labelColor=white)]()
-[![Lumen](https://img.shields.io/badge/lumen-000000?style=for-the-badge&logo=lumen&logoColor=ff2d20&labelColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![Lumen](https://img.shields.io/badge/lumen-FF2D20?style=for-the-badge&logo=lumen&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 </br>
 And more...
 
 ## Contact me:
 
-[![MyPublicInbox](https://img.shields.io/badge/linkedin-profesional_profile-orange?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andres-felipe-cardozo-ca%C3%B1as-23ab48210/)
-</br>
-[![Email](https://img.shields.io/badge/andres.cardozo96@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.cardozo96@gmail.com)
+[![MyPublicInbox](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-felipe-cardozo-ca%C3%B1as-23ab48210/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.cardozo96@gmail.com) [![gitlab](	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xx1196) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/xx1196) 
