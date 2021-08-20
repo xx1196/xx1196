@@ -1,5 +1,6 @@
 # Hello, my name is Andres Felipe Cardozo Cañas
-### Freelance back, laravel-lumen, php, graphQL.
+![Visits](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=xx1196&repo=xx1196-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+### Freelance back, laravel-lumen, php, graphQL. 
 
 I'm a software developer for more than 4 years.
 
