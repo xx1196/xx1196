@@ -1,17 +1,13 @@
 # Hello, my name is Andres Felipe Cardozo Cañas
 ![Visits](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=xx1196&repo=xx1196-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-### Freelance back, laravel-lumen, php, graphQL. 
+### Freelance back, laravel/php, Springboot, Java, golang, Docker and more. 
 
-I'm a software developer for more than 4 years.
+I'm a software developer for more than 7 years.
 
 ## Skills:
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![Lumen](https://img.shields.io/badge/lumen-FF2D20?style=for-the-badge&logo=lumen&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 </br>
 And more...
